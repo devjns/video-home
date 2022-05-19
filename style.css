@@ -1,0 +1,85 @@
+body {
+    background: rgba(24, 22, 22, 0.911);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+div#lista-videos {
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    line-height: 30px;
+    text-align: center;
+
+}
+ 
+ul#ul-videos {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+
+li {
+    display: inline-block;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    
+}
+
+a {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+figure {
+    display: inline-block;
+    padding: 2px;
+    border: 2px;
+    margin: 2px;
+}
+
+figcaption {
+    color: white;
+}
+
+img#img_carl {
+    width: 320px;
+    height: 180px;
+}
+
+div#video1 {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-top: 30px;
+}
+
+div.video {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    margin-top: 30px;
+}
+
+img {
+    margin-top: 20px;
+}
